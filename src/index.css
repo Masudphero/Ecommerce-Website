@@ -3,4 +3,12 @@
 @tailwind utilities;
 
 
+body{
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  
+}
+
 .container{width: 90%; margin: auto;}
+
+
