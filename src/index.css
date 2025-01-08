@@ -9,10 +9,12 @@ body{
   font-family: "Montserrat", serif;
   font-optical-sizing: auto;
   background: #f5f0f0;
+  color:rgba(0,0,0,0.8)
 
   
 }
+.link:hover{color: #ff5252;}
 
-.container{width: 90%; margin: auto;}
+.container{width: 95%; margin: auto;}
 
 
